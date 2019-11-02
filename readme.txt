@@ -10,6 +10,5 @@ How to run?
 3-Run 1.exe 
 4-Enter input file name (input.txt in this example)
 
-note : you can run the this program by changing the 
-extension of the file from ".1exe" to ".exe"
+
 
